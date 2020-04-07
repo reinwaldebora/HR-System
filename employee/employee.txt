@@ -1,0 +1,31 @@
+ID Number: 14107160
+Name: Robert Espina
+Address: Cebu City
+Contact Number: 09210825205
+Age: 27
+E-mail Address: robert@gmail.com
+Birthday: August 1,1990
+Sex: Male
+Father's Name: Brad Pit
+Father's Occupation: Actor
+Mother's Name: Angelina Jolie
+Mother's Occupation: Actress
+Marital Status: Single
+Start Date: May 5,2014
+Employee Status: probation
+Department: architecture
+Basic Pay: 40000
+Total Work Hours: 31
+Rate Per Hour: 227.273
+Gross Pay: 
+Tax: 
+Pag-ibig: 323323232
+SSS: 000000000
+Phil Health: 4242424242
+Total Deductions: 
+Total Benefits: 
+Total Adjustments: 
+NetPay: 
+Job Position: salesman
+Location: butuan
+================================================~

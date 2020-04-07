@@ -1,0 +1,60 @@
+ID Number: 14107160
+Name: Robert Espina
+Address: Cebu City
+Contact Number: 09210825205
+Age: 21
+E-mail Address: robert.espina9627@gmail.com
+Birthday: August 27,1996
+Sex: Male
+Father's Name: John Lloyd Cruz
+Father's Occupation: Civil Engineer
+Mother's Name: Bea Alonzo
+Mother's Occupation: Architect
+Marital Status: Single
+Start Date: March 1,2005
+Employee Status: Regular
+Department:
+Basic Pay: 
+Total Work Hours: 
+Rate Per Hour: 
+Gross Pay: 
+Tax: 
+Pag-ibig:
+SSS:
+Phil Health:
+Total Deductions: 
+Total Benefits: 
+Total Adjustments: 
+NetPay: 
+Job Position:
+================================================~
+ID Number: 14105455
+Name: Dave Vincent Oporto
+Address: Consolacion, Cebu City
+Contact Number: 09227731806
+Age: 35
+E-mail Address: dave@gmail.com
+Birthday: May 27,1972
+Sex: Male
+Father's Name: Vincent Oporto
+Father's Occupation: Manager
+Mother's Name: Susie Oporto
+Mother's Occupation: Teacher
+Marital Status: Married
+Start Date: August 21,2004
+Employee Status: Applicant
+Department: 
+Basic Pay: 
+Total Work Hours: 
+Rate Per Hour: 
+Gross Pay: 
+Tax: 
+Pag-ibig: 213121
+SSS: 413123123
+Phil Health: 21313121
+Total Deductions: 
+Total Benefits: 
+Total Adjustments: 
+NetPay: 
+Job Position: 
+================================================~

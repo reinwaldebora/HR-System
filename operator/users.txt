@@ -1,0 +1,21 @@
+First Name: Jerico
+Middle Name: Cansancio
+Last Name: Gantuangco
+User Level: HR Personnel
+Username: Jerico
+Password: james
+================================================~
+First Name: Li-Hershey
+Middle Name: Frias
+Last Name: Fiel
+User Level: HR Manager
+Username: hrmanager
+Password: hershey
+================================================~
+First Name: Robert
+Middle Name: Buslon
+Last Name: Espina
+User Level: Admin
+Username: admin
+Password: user@1234
+================================================~

@@ -1,0 +1,14 @@
+Job Order #: 323555
+Job Position: Secretary
+Job Requirements: graduate
+Corresponding Department: computer engineering
+Corresponding Location: cebu city
+Code: 323232
+================================================~
+Job Order #: 3
+Job Position: secretary
+Job Requirements: good communication skills
+Corresponding Department: dormitory
+Correspoding Location: talamban campus
+Code: 9663
+================================================~
