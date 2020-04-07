@@ -1,12 +1,1 @@
-Department Name: Architecture
-Location: Butuan
-Code: 2000002
-================================================~
-Department Name: Computer Engineering
-Location: Cebu City
-Code: 32323232
-================================================~
-Department Name: dormitory
-Location: talamban campus
-Code: 633
-================================================~
+
